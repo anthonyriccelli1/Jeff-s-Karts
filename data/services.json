@@ -1,0 +1,56 @@
+{
+  "services": [
+    {
+      "id": "custom-painting",
+      "title": "Custom Painting & Wraps",
+      "description": "Transform your golf cart with professional custom paint jobs and vinyl wraps. From solid colors to complex designs, we bring your vision to life.",
+      "icon": "paint",
+      "features": [
+        "Professional automotive paint",
+        "Custom designs and patterns",
+        "Vinyl wraps and graphics",
+        "Color matching available",
+        "Clear coat protection"
+      ]
+    },
+    {
+      "id": "full-customization",
+      "title": "Full Customization",
+      "description": "Complete golf cart transformations including seats, wheels, lights, lift kits, and more. Make your cart truly one-of-a-kind.",
+      "icon": "wrench",
+      "features": [
+        "Custom seats and upholstery",
+        "Wheel and tire upgrades",
+        "Lift kit installation",
+        "LED lighting packages",
+        "Sound system installation"
+      ]
+    },
+    {
+      "id": "street-legal",
+      "title": "Street Legal Conversions",
+      "description": "Get your golf cart street legal and ready for Melbourne roads. We handle all the required modifications and compliance.",
+      "icon": "road",
+      "features": [
+        "DOT approved lighting",
+        "Turn signals and brake lights",
+        "Mirrors and safety equipment",
+        "Horn installation",
+        "Compliance documentation"
+      ]
+    },
+    {
+      "id": "repairs",
+      "title": "Repairs & Maintenance",
+      "description": "Keep your golf cart running smoothly with our expert repair and maintenance services. All makes and models welcome.",
+      "icon": "tools",
+      "features": [
+        "Battery service and replacement",
+        "Motor and controller repairs",
+        "Brake service",
+        "Electrical troubleshooting",
+        "Preventive maintenance"
+      ]
+    }
+  ]
+}

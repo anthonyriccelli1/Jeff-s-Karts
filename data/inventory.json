@@ -1,0 +1,46 @@
+{
+  "carts": [
+    {
+      "id": "coming-soon-1",
+      "name": "Custom Build Coming Soon",
+      "description": "Premium custom golf cart with full customization options",
+      "price": null,
+      "status": "coming_soon",
+      "specs": {
+        "type": "Electric",
+        "seats": "4-6",
+        "features": ["Custom Paint", "Lifted", "Premium Seats"]
+      },
+      "images": [],
+      "featured": true
+    },
+    {
+      "id": "coming-soon-2",
+      "name": "Street Legal Cart",
+      "description": "Fully street legal golf cart ready for Melbourne roads",
+      "price": null,
+      "status": "coming_soon",
+      "specs": {
+        "type": "Electric",
+        "seats": "4",
+        "features": ["Street Legal", "LED Lights", "Turn Signals"]
+      },
+      "images": [],
+      "featured": true
+    },
+    {
+      "id": "coming-soon-3",
+      "name": "Custom Painted Cart",
+      "description": "Show-stopping custom paint job with unique design",
+      "price": null,
+      "status": "coming_soon",
+      "specs": {
+        "type": "Electric",
+        "seats": "4",
+        "features": ["Custom Paint", "Chrome Accents", "Sound System"]
+      },
+      "images": [],
+      "featured": true
+    }
+  ]
+}
