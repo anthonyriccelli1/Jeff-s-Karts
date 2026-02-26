@@ -44,6 +44,7 @@ const serviceIcons: Record<string, JSX.Element> = {
 
 // Hero slideshow images
 const heroImages = [
+  '/golfcart-teal.jpeg',
   '/im3rd-media-19pm-B97gQ4-unsplash.jpg',
   '/denago-ev-HS2vOYDpw18-unsplash.jpg',
   '/denago-ev-_vQ0kUrTfr0-unsplash.jpg',

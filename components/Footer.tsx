@@ -33,7 +33,7 @@ export default function Footer() {
             <div className="flex items-center gap-2 mb-4">
               {!logoError ? (
                 <Image
-                  src="/Jeff-logo.png"
+                  src="/Jeffs-logo1.png"
                   alt="Jeff's Karts"
                   width={180}
                   height={68}

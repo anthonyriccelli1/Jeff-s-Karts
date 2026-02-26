@@ -40,7 +40,7 @@ export default function Header() {
           {/* Logo */}
           <Link href="/" className="flex-shrink-0 flex items-center gap-3 transition-transform hover:scale-105">
             <Image
-              src="/Jeff-logo.png"
+              src="/Jeffs-logo1.png"
               alt="Jeff's Karts"
               width={160}
               height={160}

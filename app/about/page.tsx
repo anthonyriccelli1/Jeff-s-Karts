@@ -33,7 +33,7 @@ export default function AboutPage() {
           <div className="relative">
             <div className="aspect-[4/3] rounded-3xl bg-gradient-to-br from-slate-50 to-slate-100 border border-slate-200 overflow-hidden shadow-lg flex items-center justify-center p-8">
               <Image
-                src="/Jeff-logo.png"
+                src="/Jeffs-logo1.png"
                 alt="Jeff's Karts Logo"
                 width={400}
                 height={400}
